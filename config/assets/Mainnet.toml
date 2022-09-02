@@ -518,3 +518,23 @@ coingeckoId = "usd-coin" # TODO: update when on coingecko
 market = "SOL"
 source = "blazestake"
 coingeckoId = "solana"
+
+[mainnet.GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs]
+market = "JFI"
+source = "jungle"
+coingeckoId = "jungle-defi"
+
+[mainnet.jJF1SrhzpyqYawE9ruSVKrHjfxjaG5TUMFB5vnXUWVm]
+market = "JFI"
+source = "jungle"
+coingeckoId = "jungle-defi"
+
+[mainnet.4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R]
+market = "RAY"
+source = "raydium"
+coingeckoId = "raydium"
+
+[mainnet.jRAYPwLn4ZRGRSKu7GWu6B3Qx3Vj2JU88agUweEceyo]
+market = "RAY"
+source = "jungle"
+coingeckoId = "raydium"
